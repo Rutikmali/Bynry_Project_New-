@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "firstname": "Rutik ",
+      "lastname": "Mali",
+      "birthdate": "2023-10-11",
+      "gender": "m",
+      "education": "graduate",
+      "company": "aaa",
+      "jobExperience": 10,
+      "salary": 400000,
+      "profile": "thumb-1920-587777 (1).png",
+      "id": 1
+    },
+    {
+      "firstname": "mayur",
+      "lastname": "thakur",
+      "birthdate": "",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "India",
+      "jobExperience": "",
+      "salary": 431136,
+      "profile": "pexels-bruno-scramgnon-315658.jpg",
+      "id": 9
+    },
+    {
+      "firstname": "adii",
+      "lastname": "sapkal",
+      "birthdate": "",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "India",
+      "jobExperience": "pune",
+      "salary": 431136,
+      "profile": "back.jpg",
+      "id": 10
+    },
+    {
+      "firstname": "Aadesh ",
+      "lastname": "patil",
+      "birthdate": "",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "india",
+      "jobExperience": "pune",
+      "salary": 411036,
+      "profile": "a1.jpg",
+      "id": 11
+    },
+    {
+      "firstname": "Abhishek ",
+      "lastname": "patil",
+      "birthdate": "",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "us",
+      "jobExperience": "california",
+      "salary": 325758,
+      "profile": "b1.jpeg",
+      "id": 12
+    },
+    {
+      "firstname": "rishi",
+      "lastname": "sonawane",
+      "birthdate": "",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "india",
+      "jobExperience": "kolhapur",
+      "salary": 888222,
+      "profile": "c1.jpg",
+      "id": 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
